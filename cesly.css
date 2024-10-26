@@ -1,0 +1,67 @@
+.qizil {
+    background-color: red;
+    color: black;
+}
+.yashil {
+    background-color: green;
+    color: black;
+}
+.fialetvi {
+    background-color: blueviolet;
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
+.yellov {
+    color: yellow;
+}
+.gray {
+    color: gray;
+}
+.boshqa {
+    background-color: lawngreen;
+    width: 200px;
+    height: 20px;
+}
+h1 {
+background-color: cornflowerblue;
+color: blueviolet;
+border: 3px solid red;
+border-radius: 20px;
+text-align: center;
+}
+.op {
+    color: red;
+}
+th,td {
+    text-align: center;
+    border: 1px solid white;
+}
+table{
+    border-collapse: collapse;
+}
+.sariq {
+   background-color : yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
